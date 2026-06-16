@@ -1,10 +1,30 @@
+# Web framework
 fastapi
-uvicorn
-httpx
-python-dotenv
+uvicorn[standard]
+
+# Database
 sqlalchemy
 alembic
 psycopg2-binary
-redis
+
+# Config & validation
+pydantic-settings
+
+# Auth
 python-jose[cryptography]
 passlib[bcrypt]
+
+# HTTP client
+httpx
+
+# Caching
+redis
+
+# Background jobs
+apscheduler
+
+# Parsing
+beautifulsoup4
+
+# Utils
+python-dotenv
