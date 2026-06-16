@@ -1,0 +1,9 @@
+httpx
+beautifulsoup4
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+apscheduler
+python-dotenv
