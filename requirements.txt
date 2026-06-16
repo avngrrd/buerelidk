@@ -1,9 +1,10 @@
-httpx
-beautifulsoup4
 fastapi
 uvicorn
+httpx
+python-dotenv
 sqlalchemy
 alembic
 psycopg2-binary
-apscheduler
-python-dotenv
+redis
+python-jose[cryptography]
+passlib[bcrypt]
